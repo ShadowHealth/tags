@@ -10,7 +10,12 @@
       "uuid": "b81490c9-b0ba-4290-95d8-612d682eeba3",
       "name": "Tina Jones",
       "description": "A rich medical and psychosocial history for students to uncover. Students interview Tina to obtain her complete health history, where they discover additional health concerns. Then, they examine Tina head-to-toe, one body system at a time, to gather subjective and objective patient data and form a comprehensive understanding of Tina's health."
+    },
+    {
+      "uuid": "232f22cb-79de-4337-9acb-0fe1391d974b",
+      "name": "Edward Carter",
+      "description": "Shadow Health newest patient"
     }
   ],
-  "version": "0.0.2"
+  "version": "0.1.2"
 }
