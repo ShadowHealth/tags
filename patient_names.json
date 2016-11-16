@@ -2,13 +2,15 @@
   "context": "patient_name",
   "tags": [
     {
+       "uuid": "9d7f6fbc-3f05-47af-be4f-ec92369acfc2",
        "name": "Danny Rivera",
        "description": "An 8-year-old boy who has had a cough for several days, especially at night. During the Digital Clinical Experience, students perform a focused respiratory exam, explore related systems and symptoms, and practice communicating with a pediatric patient about his health, home life, and cultural beliefs."
     },
     {
+      "uuid": "b81490c9-b0ba-4290-95d8-612d682eeba3",
       "name": "Tina Jones",
       "description": "A rich medical and psychosocial history for students to uncover. Students interview Tina to obtain her complete health history, where they discover additional health concerns. Then, they examine Tina head-to-toe, one body system at a time, to gather subjective and objective patient data and form a comprehensive understanding of Tina's health."
     }
   ],
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
