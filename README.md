@@ -1,3 +1,3 @@
 # Tags Repo
 
-we use SecureRandom.uuid to generate the uuid. more
+we use SecureRandom.uuid to generate the uuid. More
